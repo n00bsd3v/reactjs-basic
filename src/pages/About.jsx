@@ -1,5 +1,5 @@
 function About() {
-  return <div>Ini halaman about</div>;
+  return <div>Ini Halaman About</div>;
 }
 
 export default About;
